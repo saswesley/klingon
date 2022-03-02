@@ -1,0 +1,15 @@
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\VerbosKlingon.exe
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\VerbosKlingon.deps.json
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\VerbosKlingon.runtimeconfig.json
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\VerbosKlingon.dll
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\VerbosKlingon.pdb
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\VerbosKlingon.csproj.AssemblyReference.cache
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\VerbosKlingon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\VerbosKlingon.AssemblyInfoInputs.cache
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\VerbosKlingon.AssemblyInfo.cs
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\VerbosKlingon.csproj.CoreCompileInputs.cache
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\VerbosKlingon.dll
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\refint\VerbosKlingon.dll
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\VerbosKlingon.pdb
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\VerbosKlingon.genruntimeconfig.cache
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\ref\VerbosKlingon.dll

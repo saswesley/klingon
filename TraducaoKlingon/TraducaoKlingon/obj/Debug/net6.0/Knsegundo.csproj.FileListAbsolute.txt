@@ -1,0 +1,15 @@
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\Knsegundo.exe
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\Knsegundo.deps.json
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\Knsegundo.runtimeconfig.json
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\Knsegundo.dll
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\bin\Debug\net6.0\Knsegundo.pdb
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\Knsegundo.csproj.AssemblyReference.cache
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\Knsegundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\Knsegundo.AssemblyInfoInputs.cache
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\Knsegundo.AssemblyInfo.cs
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\Knsegundo.csproj.CoreCompileInputs.cache
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\Knsegundo.dll
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\refint\Knsegundo.dll
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\Knsegundo.pdb
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\Knsegundo.genruntimeconfig.cache
+D:\Projects\Teste-C#\Knsegundo\Knsegundo\obj\Debug\net6.0\ref\Knsegundo.dll

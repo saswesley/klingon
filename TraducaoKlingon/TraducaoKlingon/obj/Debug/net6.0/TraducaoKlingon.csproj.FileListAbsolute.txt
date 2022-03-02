@@ -1,0 +1,15 @@
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\bin\Debug\net6.0\TraducaoKlingon.exe
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\bin\Debug\net6.0\TraducaoKlingon.deps.json
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\bin\Debug\net6.0\TraducaoKlingon.runtimeconfig.json
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\bin\Debug\net6.0\TraducaoKlingon.dll
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\bin\Debug\net6.0\TraducaoKlingon.pdb
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\TraducaoKlingon.csproj.AssemblyReference.cache
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\TraducaoKlingon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\TraducaoKlingon.AssemblyInfoInputs.cache
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\TraducaoKlingon.AssemblyInfo.cs
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\TraducaoKlingon.csproj.CoreCompileInputs.cache
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\TraducaoKlingon.dll
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\refint\TraducaoKlingon.dll
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\TraducaoKlingon.pdb
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\TraducaoKlingon.genruntimeconfig.cache
+D:\Projects\Teste-C#\TraducaoKlingon\TraducaoKlingon\obj\Debug\net6.0\ref\TraducaoKlingon.dll
